@@ -73,6 +73,6 @@ I wanted to get across how overwhelming it can feel being online in this day and
 ### 🟪 Stage 5
 - Name/Alias: Roshni Bhatti
 - Github account: https://github.com/rbha917 
-- Published webpage for stage 5: 
+- Published webpage for stage 5: https://rbha917.github.io/exquisite-corpse-stage-5-time-jockey/ 
 
 *I loved the many scenic pathways Odette used in her game but the one that called to me most was the deep sea tunnel. Therefore I chose to create an abstract simulation of a deep sea environment. I created 3 classes for this: Fish, Seaweed and Krill. The purple ellipses are supposed to represent a school of fish while the thin green rectangles are strands of seaweed and the smaller moving particles behind them are krill/plankton. I opted for a sea-green background that is redrawn with a 50% opacity when the objects are drawn so that you can see some light traces of their paths as you would if they were moving through water. My choice in colours is primarily cool tones because that is what I picture when I think of the deep sea. There is a large black circle in the centre that represents a black hole sea tunnel at the bottom of the ocean combining 2 different elements from Odette's backgrounds, the black hole and the sea tunnel.*
